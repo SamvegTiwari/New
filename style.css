@@ -1,0 +1,25 @@
+.header{
+ box-shadow: 10px  10px  10px red;
+ font-size: 20px;
+}
+
+.Anchor1{
+    box-shadow: 10px  10px  10px blue;  
+    font-size: 20px;
+}
+
+.Anchor2{
+    box-shadow: 10px  10px  10px yellow;
+    font-size: 20px;
+}
+
+.Anchor3{
+    box-shadow: 10px  10px  10px pink;
+    font-size: 20px;
+}
+
+.Anchor4{
+    box-shadow: 10px  10px  10px cyan;
+    font-size: 20px;
+}
+
